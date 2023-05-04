@@ -1,4 +1,4 @@
-ame: Zip repository files and upload to another repository
+name: Zip repository files and upload to another repository
 on:
   push:
     branches: [main]
